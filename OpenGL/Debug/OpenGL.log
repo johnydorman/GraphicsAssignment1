@@ -1,0 +1,20 @@
+﻿  line.cpp
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(15): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(16): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(162): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(194): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(194): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(195): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(195): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(245): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(248): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(251): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\administrator\documents\visual studio 2015\projects\opengl2\opengl\line.cpp(254): warning C4305: '-=': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OpenGL2\Debug\OpenGL.exe
+  OpenGL.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OpenGL2\Debug\OpenGL.pdb (Partial PDB)
